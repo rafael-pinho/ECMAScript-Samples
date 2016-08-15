@@ -21,8 +21,6 @@ console.log(c); //1
 console.log(x); //4
 console.log(y); //5
 
-
-
 {
     function getCar(){
         return {
@@ -45,8 +43,6 @@ console.log(y); //5
         let {color, engine: engine, details: { name }, details: { price : price}} = getCar();
     }
 }
-
-
 
 {
     //voce pode passar um array para uma função e desconstrui-lo em parametros
