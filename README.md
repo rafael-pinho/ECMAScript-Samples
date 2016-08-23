@@ -5,7 +5,6 @@ Features e exemplos das novas versões do ES.
 * [ECMAScript 6](./es6)
 * [ECMAScript 2016](./es2016)
 
-
 ## TC39 - Technical Committee 39
 
 Já se perguntou quem desenvolve o ES? Quem toma conta disso é o TC39, um comitê formado por membros e companias (entre outros, grandes fornecedores de browsers). 
@@ -28,12 +27,12 @@ Aqui é apresentada a proposta (por um membro do TC39 ou contribuidor). O docume
 Aqui uma proposta formal é feita. É necessario um responsavel pela funcionalidade, (deve ser um membro do TC39).
 São discutidos alguns aspectos como obstáculos para implementação, interação com outras features, algoritimo, qual problema será resolvido, entre outros.
 
-## Etapa 2
+### Etapa 2
 
 Uma primeira versão da especificação. É preciso uma descrição formal de sintaxe, semântica e deve ser tão completa quanto possivel.
 Duas implementações experimentais são necessárias.
 
-## Etapa 3
+### Etapa 3
 
 A proposta está pronta para ser incluida. Para isso ela ainda deve passar em testes e o editor deve assinar o texto de especificação.
 
