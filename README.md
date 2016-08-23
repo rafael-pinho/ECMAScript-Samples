@@ -11,12 +11,9 @@ Já se perguntou quem desenvolve o ES? Quem toma conta disso é o TC39, um comit
 
 ## Releases
 
-O ECMAScript 2015 (ES6), foi uma grande release (tanto em features quanto em tamanho mesmo). Foram 6 anos até estar totalmente pronta, (12/2009 - 07/2015).
-Entre os problemas de grandes releases temos: features finalizadas não são liberadas até que outras estejam prontas também e isso gera uma pressão para que 
-funcionalidades sejam liberadas logo a fim de não atrasar mais o lançamento.
-Por isso, a partir do ECMAScript 2016 (ES7), releases serão mais frequentes, uma por ano com todas funcionalidades prontas até então.
+O ECMAScript 2015 (ES6), foi uma grande release (tanto em features quanto em tamanho mesmo). Foram 6 anos até estar totalmente pronta, (12/2009 - 07/2015). Entre os problemas de grandes releases temos: features finalizadas não são liberadas até que outras estejam prontas também e isso gera uma pressão para que funcionalidades sejam liberadas logo a fim de não atrasar mais o lançamento. Por isso, a partir do ECMAScript 2016, serão feitas uma release por ano com todas funcionalidades prontas até então.
 
-O processo de desenvolvimento de uma feature passa por quatro etapas.
+O processo de adição de uma feature passa por um processo de quatro etapas.
 
 ### Etapa 0
 
@@ -24,7 +21,7 @@ Aqui é apresentada a proposta (por um membro do TC39 ou contribuidor). O docume
 
 ### Etapa 1
 
-Aqui uma proposta formal é feita. É necessario um responsavel pela funcionalidade, (deve ser um membro do TC39).
+Agora uma proposta formal é feita. É necessario um responsavel pela funcionalidade, (deve ser um membro do TC39).
 São discutidos alguns aspectos como obstáculos para implementação, interação com outras features, algoritimo, qual problema será resolvido, entre outros.
 
 ### Etapa 2
