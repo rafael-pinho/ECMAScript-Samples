@@ -36,4 +36,5 @@ A proposta está pronta para ser incluida. Para isso ela ainda deve passar em te
 ## Referências
 
 O texto acima é um resumo que fiz de um blog. O texto original se encontra no link: http://www.2ality.com/2015/11/tc39-process.html.
+
 O repositório do ECMAScript: https://github.com/tc39/ecma262
